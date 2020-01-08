@@ -1,0 +1,12 @@
+
+/node_modules
+/dart_output/*.js
+/dart_output/*.js.map
+/dart_output/*.sum
+/dist
+.DS_Store
+*.log
+.idea
+.vscode
+.cache
+.eslintcache
